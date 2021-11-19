@@ -3,10 +3,10 @@ Arduino Uno R3 OLED Clock Without RTC
 
 **OLED          =>            UNO R3**
 
-GND                           GND
+GND             =>              GND
 
-VCC                           5V
+VCC             =>              5V
 
-SCL                           A5
+SCL             =>              A5
 
-SDA                           A4
+SDA             =>              A4
